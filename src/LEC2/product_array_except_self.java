@@ -6,7 +6,7 @@ public class product_array_except_self {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+//input 
 		Scanner sc  = new Scanner (System.in);
 		System.out.println("enter size of your choice");
 		int size = sc.nextInt();
